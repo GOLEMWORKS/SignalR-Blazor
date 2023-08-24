@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blazor-Online-Chatting", "Blazor-Online-Chatting\Blazor-Online-Chatting.csproj", "{BD55BD5F-7351-4C79-8A83-CC60218B70C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Blazor-Online-Chatting", "Blazor-Online-Chatting\Blazor-Online-Chatting.csproj", "{BD55BD5F-7351-4C79-8A83-CC60218B70C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFClient", "WPFClient\WPFClient.csproj", "{2E0302A2-CA22-4747-A68A-6E2C7E04707F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{BD55BD5F-7351-4C79-8A83-CC60218B70C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD55BD5F-7351-4C79-8A83-CC60218B70C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD55BD5F-7351-4C79-8A83-CC60218B70C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E0302A2-CA22-4747-A68A-6E2C7E04707F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E0302A2-CA22-4747-A68A-6E2C7E04707F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E0302A2-CA22-4747-A68A-6E2C7E04707F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E0302A2-CA22-4747-A68A-6E2C7E04707F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
