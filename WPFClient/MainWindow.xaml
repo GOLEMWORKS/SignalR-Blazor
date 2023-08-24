@@ -21,7 +21,8 @@
             Grid.Row="0"
             HorizontalAlignment="Center"
             Padding="20 10"
-            Margin="20">
+            Margin="20" 
+            Click="openConnection_Click">
             Подключиться
         </Button>
 
@@ -37,7 +38,8 @@
             <Button 
                 x:Name="sendMessage" 
                 Padding="20 10"
-                Margin="20">        
+                Margin="20"
+                IsEnabled="False" Click="sendMessage_Click">        
                 Отправить
             </Button>
 
