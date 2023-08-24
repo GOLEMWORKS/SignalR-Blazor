@@ -39,7 +39,8 @@
                 x:Name="sendMessage" 
                 Padding="20 10"
                 Margin="20"
-                IsEnabled="False" Click="sendMessage_Click">        
+                IsEnabled="False" 
+                Click="sendMessage_Click">        
                 Отправить
             </Button>
 
